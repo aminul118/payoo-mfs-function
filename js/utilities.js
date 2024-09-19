@@ -19,6 +19,7 @@ function getTextFieldValueById(id){
 }
 
 // ! Show a section
+
 function showSectionById(id){
 
     // * Hide All the section
